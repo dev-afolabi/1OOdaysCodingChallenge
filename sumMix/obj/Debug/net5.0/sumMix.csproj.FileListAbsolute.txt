@@ -1,0 +1,16 @@
+C:\Users\hp\algorithms\challenges\sumMix\bin\Debug\net5.0\sumMix.exe
+C:\Users\hp\algorithms\challenges\sumMix\bin\Debug\net5.0\sumMix.deps.json
+C:\Users\hp\algorithms\challenges\sumMix\bin\Debug\net5.0\sumMix.runtimeconfig.json
+C:\Users\hp\algorithms\challenges\sumMix\bin\Debug\net5.0\sumMix.runtimeconfig.dev.json
+C:\Users\hp\algorithms\challenges\sumMix\bin\Debug\net5.0\sumMix.dll
+C:\Users\hp\algorithms\challenges\sumMix\bin\Debug\net5.0\ref\sumMix.dll
+C:\Users\hp\algorithms\challenges\sumMix\bin\Debug\net5.0\sumMix.pdb
+C:\Users\hp\algorithms\challenges\sumMix\obj\Debug\net5.0\sumMix.csprojAssemblyReference.cache
+C:\Users\hp\algorithms\challenges\sumMix\obj\Debug\net5.0\sumMix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\algorithms\challenges\sumMix\obj\Debug\net5.0\sumMix.AssemblyInfoInputs.cache
+C:\Users\hp\algorithms\challenges\sumMix\obj\Debug\net5.0\sumMix.AssemblyInfo.cs
+C:\Users\hp\algorithms\challenges\sumMix\obj\Debug\net5.0\sumMix.csproj.CoreCompileInputs.cache
+C:\Users\hp\algorithms\challenges\sumMix\obj\Debug\net5.0\sumMix.dll
+C:\Users\hp\algorithms\challenges\sumMix\obj\Debug\net5.0\ref\sumMix.dll
+C:\Users\hp\algorithms\challenges\sumMix\obj\Debug\net5.0\sumMix.pdb
+C:\Users\hp\algorithms\challenges\sumMix\obj\Debug\net5.0\sumMix.genruntimeconfig.cache

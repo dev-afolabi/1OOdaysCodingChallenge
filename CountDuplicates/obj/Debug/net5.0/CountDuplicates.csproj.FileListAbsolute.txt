@@ -1,0 +1,16 @@
+C:\Users\hp\algorithms\challenges\CountDuplicates\bin\Debug\net5.0\CountDuplicates.exe
+C:\Users\hp\algorithms\challenges\CountDuplicates\bin\Debug\net5.0\CountDuplicates.deps.json
+C:\Users\hp\algorithms\challenges\CountDuplicates\bin\Debug\net5.0\CountDuplicates.runtimeconfig.json
+C:\Users\hp\algorithms\challenges\CountDuplicates\bin\Debug\net5.0\CountDuplicates.runtimeconfig.dev.json
+C:\Users\hp\algorithms\challenges\CountDuplicates\bin\Debug\net5.0\CountDuplicates.dll
+C:\Users\hp\algorithms\challenges\CountDuplicates\bin\Debug\net5.0\ref\CountDuplicates.dll
+C:\Users\hp\algorithms\challenges\CountDuplicates\bin\Debug\net5.0\CountDuplicates.pdb
+C:\Users\hp\algorithms\challenges\CountDuplicates\obj\Debug\net5.0\CountDuplicates.csprojAssemblyReference.cache
+C:\Users\hp\algorithms\challenges\CountDuplicates\obj\Debug\net5.0\CountDuplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\algorithms\challenges\CountDuplicates\obj\Debug\net5.0\CountDuplicates.AssemblyInfoInputs.cache
+C:\Users\hp\algorithms\challenges\CountDuplicates\obj\Debug\net5.0\CountDuplicates.AssemblyInfo.cs
+C:\Users\hp\algorithms\challenges\CountDuplicates\obj\Debug\net5.0\CountDuplicates.csproj.CoreCompileInputs.cache
+C:\Users\hp\algorithms\challenges\CountDuplicates\obj\Debug\net5.0\CountDuplicates.dll
+C:\Users\hp\algorithms\challenges\CountDuplicates\obj\Debug\net5.0\ref\CountDuplicates.dll
+C:\Users\hp\algorithms\challenges\CountDuplicates\obj\Debug\net5.0\CountDuplicates.pdb
+C:\Users\hp\algorithms\challenges\CountDuplicates\obj\Debug\net5.0\CountDuplicates.genruntimeconfig.cache
