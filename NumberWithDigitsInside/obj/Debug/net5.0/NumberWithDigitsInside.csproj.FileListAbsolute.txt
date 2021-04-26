@@ -1,0 +1,16 @@
+C:\Users\hp\algorithms\challenges\numberwithdigitsinside\bin\Debug\net5.0\NumberWithDigitsInside.exe
+C:\Users\hp\algorithms\challenges\numberwithdigitsinside\bin\Debug\net5.0\NumberWithDigitsInside.deps.json
+C:\Users\hp\algorithms\challenges\numberwithdigitsinside\bin\Debug\net5.0\NumberWithDigitsInside.runtimeconfig.json
+C:\Users\hp\algorithms\challenges\numberwithdigitsinside\bin\Debug\net5.0\NumberWithDigitsInside.runtimeconfig.dev.json
+C:\Users\hp\algorithms\challenges\numberwithdigitsinside\bin\Debug\net5.0\NumberWithDigitsInside.dll
+C:\Users\hp\algorithms\challenges\numberwithdigitsinside\bin\Debug\net5.0\ref\NumberWithDigitsInside.dll
+C:\Users\hp\algorithms\challenges\numberwithdigitsinside\bin\Debug\net5.0\NumberWithDigitsInside.pdb
+C:\Users\hp\algorithms\challenges\numberwithdigitsinside\obj\Debug\net5.0\NumberWithDigitsInside.csprojAssemblyReference.cache
+C:\Users\hp\algorithms\challenges\numberwithdigitsinside\obj\Debug\net5.0\NumberWithDigitsInside.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\algorithms\challenges\numberwithdigitsinside\obj\Debug\net5.0\NumberWithDigitsInside.AssemblyInfoInputs.cache
+C:\Users\hp\algorithms\challenges\numberwithdigitsinside\obj\Debug\net5.0\NumberWithDigitsInside.AssemblyInfo.cs
+C:\Users\hp\algorithms\challenges\numberwithdigitsinside\obj\Debug\net5.0\NumberWithDigitsInside.csproj.CoreCompileInputs.cache
+C:\Users\hp\algorithms\challenges\numberwithdigitsinside\obj\Debug\net5.0\NumberWithDigitsInside.dll
+C:\Users\hp\algorithms\challenges\numberwithdigitsinside\obj\Debug\net5.0\ref\NumberWithDigitsInside.dll
+C:\Users\hp\algorithms\challenges\numberwithdigitsinside\obj\Debug\net5.0\NumberWithDigitsInside.pdb
+C:\Users\hp\algorithms\challenges\numberwithdigitsinside\obj\Debug\net5.0\NumberWithDigitsInside.genruntimeconfig.cache
