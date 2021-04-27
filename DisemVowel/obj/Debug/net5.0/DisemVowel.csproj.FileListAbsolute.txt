@@ -1,0 +1,16 @@
+C:\Users\hp\Algorithms\100_days_of_code\disemvowel\bin\Debug\net5.0\DisemVowel.exe
+C:\Users\hp\Algorithms\100_days_of_code\disemvowel\bin\Debug\net5.0\DisemVowel.deps.json
+C:\Users\hp\Algorithms\100_days_of_code\disemvowel\bin\Debug\net5.0\DisemVowel.runtimeconfig.json
+C:\Users\hp\Algorithms\100_days_of_code\disemvowel\bin\Debug\net5.0\DisemVowel.runtimeconfig.dev.json
+C:\Users\hp\Algorithms\100_days_of_code\disemvowel\bin\Debug\net5.0\DisemVowel.dll
+C:\Users\hp\Algorithms\100_days_of_code\disemvowel\bin\Debug\net5.0\ref\DisemVowel.dll
+C:\Users\hp\Algorithms\100_days_of_code\disemvowel\bin\Debug\net5.0\DisemVowel.pdb
+C:\Users\hp\Algorithms\100_days_of_code\disemvowel\obj\Debug\net5.0\DisemVowel.csprojAssemblyReference.cache
+C:\Users\hp\Algorithms\100_days_of_code\disemvowel\obj\Debug\net5.0\DisemVowel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Algorithms\100_days_of_code\disemvowel\obj\Debug\net5.0\DisemVowel.AssemblyInfoInputs.cache
+C:\Users\hp\Algorithms\100_days_of_code\disemvowel\obj\Debug\net5.0\DisemVowel.AssemblyInfo.cs
+C:\Users\hp\Algorithms\100_days_of_code\disemvowel\obj\Debug\net5.0\DisemVowel.csproj.CoreCompileInputs.cache
+C:\Users\hp\Algorithms\100_days_of_code\disemvowel\obj\Debug\net5.0\DisemVowel.dll
+C:\Users\hp\Algorithms\100_days_of_code\disemvowel\obj\Debug\net5.0\ref\DisemVowel.dll
+C:\Users\hp\Algorithms\100_days_of_code\disemvowel\obj\Debug\net5.0\DisemVowel.pdb
+C:\Users\hp\Algorithms\100_days_of_code\disemvowel\obj\Debug\net5.0\DisemVowel.genruntimeconfig.cache
